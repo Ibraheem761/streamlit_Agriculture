@@ -1,0 +1,607 @@
+Identifiant;Grp_Culture;Mode_Production;Culture;Superficie_Champ;Irrigation;Mode_irrigation;Serre
+1;Marraichères;En succession;Courgette;2;Non;NA;Petit tunel
+2;Marraichères;Principale;Tomate;2;Non;NA;Petit tunel
+3;Marraichères;Principale;Courgette;0,75;Non;NA;Non
+4;Marraichères;Principale;Menthe;0,1;Oui;Localisée;Non
+5;Marraichères;En succession;Courgette;1,75;Oui;Gravitaire;Non
+6;Marraichères;Principale;Courgette;0,9;Oui;Localisée;Non
+7;Marraichères;Principale;Pomme de terre;1,75;Oui;Gravitaire;Non
+8;Marraichères;Principale;Tomate;0,75;Oui;Gravitaire;Non
+9;Marraichères;Principale;Fève vert;0,25;Oui;Gravitaire;Non
+10;Marraichères;En succession;Courgette;2;Oui;Localisée;Non
+11;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+12;Marraichères;En succession;Courgette;2;Oui;Localisée;Non
+13;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+14;Marraichères;Principale;Courgette;1,4;Oui;Localisée;Non
+15;Marraichères;Principale;Courgette;0,5;Non;NA;Non
+16;Marraichères;En succession;Courgette;1,9;Non;NA;Non
+17;Marraichères;Principale;Tomate;1,9;Non;NA;Non
+18;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+19;Marraichères;En succession;Courgette;12,74;Oui;Gravitaire;Non
+20;Marraichères;Principale;Pomme de terre;12,74;Oui;Gravitaire;Non
+21;Marraichères;En succession;Courgette;1,7;Non;NA;Non
+22;Marraichères;Principale;Courgette;0,9;Oui;Localisée;Non
+23;Marraichères;Principale;Tomate;1,7;Non;NA;Non
+24;Marraichères;Principale;Courgette;1,5;Non;NA;Non
+25;Marraichères;Principale;Courgette;1,4;Non;NA;Non
+26;Marraichères;Principale;Courgette;1,1;Non;NA;Non
+27;Marraichères;Principale;Courgette;0,9;Non;NA;Non
+28;Marraichères;Principale;Courgette;1,6;Non;NA;Non
+29;Marraichères;En succession;Courgette;2,9;Non;NA;Non
+30;Marraichères;Principale;Pomme de terre;2,9;Non;NA;Non
+31;Marraichères;Principale;Courgette;0,4;Oui;Localisée;Non
+32;Marraichères;Principale;Pomme de terre;1;Oui;Gravitaire;Non
+33;Marraichères;Principale;Courgette;0,75;Oui;Gravitaire;Non
+34;Marraichères;Principale;Chou fleur;0,5;Oui;Gravitaire;Non
+35;Marraichères;Principale;Courgette;0,37;Oui;Localisée;Non
+36;Marraichères;En succession;Courgette;2,7;Non;NA;Non
+37;Marraichères;Principale;Tomate;2,7;Non;NA;Non
+38;Marraichères;Principale;Courgette;0,26;Non;NA;Non
+39;Marraichères;En succession;Courgette;2,9;Non;NA;Non
+40;Marraichères;Principale;Pomme de terre;2,9;Non;NA;Non
+41;Marraichères;Principale;Courgette;1,1;Oui;Localisée;Non
+42;Marraichères;En association;Courgette;1;Non;NA;Non
+43;Marraichères;Principale;Pomme de terre;0,75;Oui;Aspersion;Non
+44;Marraichères;En succession;Oignon;2;Non;Aspersion;Non
+45;Marraichères;Principale;Tomate;2;Non;Aspersion;Non
+46;Marraichères;Principale;Myrtille;0,33;Oui;Localisée;Petit tunel
+47;Marraichères;Principale;Courgette;1,25;Non;NA;Non
+48;Marraichères;Principale;Courgette;1,5;Oui;Localisée;Non
+49;Marraichères;En succession;Courgette;7;Oui;Localisée;Non
+50;Marraichères;Principale;Pomme de terre;7;Oui;Localisée;Non
+51;Marraichères;Principale;Courgette;0,4;Non;NA;Non
+52;Marraichères;Sous étage;Pomme de terre;0,1;Oui;Localisée;Non
+53;Marraichères;En succession;Haricot vert;2,5;Oui;Localisée;Non
+54;Marraichères;En succession;Tomate;2,1;Oui;Localisée;Non
+55;Marraichères;En succession;Carotte;2;Oui;Localisée;Non
+56;Marraichères;En succession;Tomate;2;Oui;Localisée;Non
+57;Marraichères;Principale;Pomme de terre;2,5;Oui;Localisée;Non
+58;Marraichères;Principale;Pomme de terre;2,1;Oui;Localisée;Non
+59;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+60;Marraichères;En succession;Courgette;2,5;Non;NA;Non
+61;Marraichères;Principale;Courgette;0,94;Non;NA;Non
+62;Marraichères;Principale;Courgette;0,37;Non;NA;Non
+63;Marraichères;Principale;Courgette;0,16;Non;NA;Non
+64;Marraichères;Principale;Tomate;2,5;Non;NA;Non
+65;Marraichères;En succession;Courgette;4,5;Oui;Localisée;Non
+66;Marraichères;Principale;Pomme de terre;4,5;Oui;Localisée;Non
+67;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+68;Marraichères;Principale;Pomme de terre;0,75;Oui;Localisée;Non
+69;Marraichères;En succession;Haricot vert;1,75;Oui;Localisée;Non
+70;Marraichères;Principale;Tomate;1,75;Oui;Localisée;Non
+71;Marraichères;Principale;Courgette;1,5;Non;NA;Non
+72;Marraichères;Principale;Haricot vert;0,75;Non;Localisée;Non
+73;Marraichères;Principale;Haricot vert;0,49;Non;Localisée;Non
+74;Marraichères;Principale;Coriandre et persil;1,6;Oui;Gravitaire;Non
+75;Marraichères;Principale;Coriandre et persil;0,5;Oui;Localisée;Non
+76;Marraichères;Principale;Courgette;1;Non;NA;Non
+77;Marraichères;En association;Pomme de terre;0,75;Oui;Localisée;Non
+78;Marraichères;Principale;Pomme de terre;1,25;Non;NA;Non
+79;Marraichères;Principale;Pomme de terre;2;Oui;Localisée;Non
+80;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+81;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+82;Marraichères;Principale;Tomate;1,5;Oui;Localisée;Non
+83;Marraichères;Principale;Pomme de terre;1,44;Oui;Localisée;Non
+84;Marraichères;En succession;Haricot vert;2,15;Oui;Localisée;Non
+85;Marraichères;Principale;Pomme de terre;2,15;Oui;Localisée;Non
+86;Marraichères;Principale;Concombre;0,3;Oui;Localisée;Canarienne
+87;Marraichères;En succession;Haricot vert;0,76;Oui;Localisée;Non
+88;Marraichères;Principale;Pomme de terre;0,76;Oui;Localisée;Non
+89;Marraichères;En succession;Concombre;0,9;Oui;Localisée;Non
+90;Marraichères;Principale;Courgette;0,16;Oui;Localisée;Non
+91;Marraichères;Principale;Haricot vert;0,9;Oui;Localisée;Non
+92;Marraichères;En succession;Haricot vert;3,25;Oui;Localisée;Non
+93;Marraichères;Principale;Pomme de terre;3,25;Oui;Localisée;Non
+94;Marraichères;Principale;Tomate;0,25;Oui;Localisée;Petit tunel
+95;Marraichères;Principale;Courgette;0,75;Oui;Localisée;Non
+96;Marraichères;En succession;Pomme de terre;0,9;Oui;Localisée;Non
+97;Marraichères;Principale;Courgette;0,9;Oui;Localisée;Non
+98;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+99;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+100;Marraichères;En association;Haricot vert;1;Oui;Localisée;Non
+101;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+102;Marraichères;Principale;Pomme de terre;2,5;Oui;Localisée;Non
+103;Marraichères;Principale;Coriandre et persil;0,5;Oui;Localisée;Non
+104;Marraichères;Principale;Pomme de terre;1,5;Oui;Localisée;Non
+105;Marraichères;Principale;Haricot vert;1,2;Oui;Localisée;Multi-chapelle
+106;Marraichères;Principale;Concombre;1;Oui;Localisée;Non
+107;Marraichères;En succession;Haricot vert;0,85;Oui;Gravitaire;Non
+108;Marraichères;En succession;Courgette;0,85;Oui;Gravitaire;Non
+109;Marraichères;Principale;Pomme de terre;0,85;Oui;Gravitaire;Non
+110;Marraichères;Principale;Pomme de terre;1,3;Oui;Localisée;Non
+111;Marraichères;Principale;Pomme de terre;2;Oui;Localisée;Non
+112;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée;Non
+113;Marraichères;Principale;Coriandre et persil;1,38;Oui;Localisée;Non
+114;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+115;Marraichères;Principale;Pomme de terre;1,5;Oui;Localisée;Non
+116;Marraichères;Principale;Coriandre et persil;0,5;Oui;Localisée;Non
+117;Marraichères;Principale;Pomme de terre;1,65;Oui;Localisée;Non
+118;Marraichères;Principale;Tomate;1,1;Oui;Localisée;Non
+119;Marraichères;Principale;Pomme de terre;0,8;Oui;Localisée;Non
+120;Marraichères;Principale;Courgette;0,1;Oui;Localisée;Non
+121;Marraichères;Principale;Pomme de terre;0,4;Oui;Localisée;Non
+122;Marraichères;Principale;Courgette;0,2;Oui;Localisée;Non
+123;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+124;Marraichères;En succession;Courgette;2,58;Oui;Localisée;Non
+125;Marraichères;Principale;Tomate;2,58;Oui;Localisée;Non
+126;Marraichères;En succession;Courgette;1,7;Oui;Localisée;Non
+127;Marraichères;Principale;Tomate;1,7;Oui;Localisée;Non
+128;Marraichères;Principale;Pomme de terre;1,45;Oui;Localisée;Non
+129;Marraichères;Principale;Haricot vert;1,16;Oui;Localisée;Non
+130;Marraichères;Principale;Pomme de terre;3,9;Non;Localisée;Non
+131;Marraichères;En succession;Courgette;2,3;Non;NA;Non
+132;Marraichères;Principale;Tomate;2,3;Non;NA;Non
+133;Marraichères;Principale;Concombre;0,5;Oui;Localisée;Petit tunel
+134;Marraichères;Principale;Tomate kiwat;0,5;Oui;Localisée;Petit tunel
+135;Marraichères;Principale;Haricot vert;0,2;Oui;Localisée;Petit tunel
+136;Marraichères;Principale;Haricot vert;1;Oui;Localisée;Non
+137;Marraichères;Principale;Tomate;0,3;Oui;Localisée;Non
+138;Marraichères;Principale;Coriandre et persil;0,3;Oui;Localisée;Non
+139;Marraichères;Principale;Choux vert;0,09;Oui;Localisée;Non
+140;Marraichères;En succession;Haricot vert;0,5;Oui;Localisée;Multi-chapelle
+141;Marraichères;En succession;Tomate;0,5;Oui;Localisée;Multi-chapelle
+142;Marraichères;Principale;Pomme de terre;0,01;Oui;Localisée;Non
+143;Marraichères;Principale;Concombre;0,5;Oui;Localisée;Multi-chapelle
+144;Marraichères;En succession;Tomate;0,2;Oui;Localisée;Non
+145;Marraichères;Principale;Haricot vert;0,2;Oui;Localisée;Non
+146;Marraichères;Principale;Coriandre et persil;0,03;Oui;Localisée;Non
+147;Marraichères;En succession;Haricot vert;0,84;Oui;Localisée;Non
+148;Marraichères;En succession;Tomate;0,84;Oui;Localisée;Non
+149;Marraichères;Principale;Pomme de terre;0,84;Oui;Localisée;Non
+150;Marraichères;Principale;Courgette;1;Oui;Localisée;Non
+151;Marraichères;Principale;Coriandre et persil;0,24;Oui;Localisée;Non
+152;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+153;Marraichères;Principale;Coriandre et persil;0,4;Oui;Localisée;Non
+154;Marraichères;Principale;Courgette;1;Oui;Localisée;Canarienne
+155;Marraichères;Principale;Coriandre et persil;0,2;Oui;Localisée;Canarienne
+156;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+157;Marraichères;Principale;Haricot vert;0,65;Oui;Localisée;Non
+158;Marraichères;Principale;Oignon;0,3;Oui;Localisée;Non
+159;Marraichères;Principale;Piment fort;0,3;Oui;Localisée;Non
+160;Marraichères;En succession;Courgette;0,75;Oui;Localisée;Non
+161;Marraichères;En succession;Laitue;0,75;Oui;Localisée;Non
+162;Marraichères;Principale;Haricot vert;0,75;Oui;Localisée;Non
+163;Marraichères;Principale;Choux vert;0,25;Oui;Localisée;Non
+164;Marraichères;En succession;Courgette;2;Oui;Aspersion;Non
+165;Marraichères;Principale;Haricot vert;1,25;Oui;Localisée;Non
+166;Marraichères;Principale;Courgette;1,5;Oui;Localisée;Non
+167;Marraichères;Principale;Tomate;2;Oui;Aspersion;Non
+168;Marraichères;En succession;Haricot vert;1;Non;NA;Non
+169;Marraichères;En succession;Piment fort;3;Oui;Localisée;Non
+170;Marraichères;En succession;Courgette;2,5;Oui;Localisée;Non
+171;Marraichères;En succession;Carotte;2;Oui;Localisée;Non
+172;Marraichères;Principale;Tomate;2,5;Oui;Localisée;Non
+173;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+174;Marraichères;Principale;Aubergine;1,3;Oui;Aspersion;Non
+175;Marraichères;Principale;Tomate;0,6;Oui;Aspersion;Non
+176;Marraichères;En succession;Choux vert;1,75;Oui;NA;Non
+177;Marraichères;En succession;Chou fleur;1,75;Non;NA;Non
+178;Marraichères;Principale;Tomate;1,75;Non;NA;Non
+179;Marraichères;En succession;Chou fleur;2;Oui;Localisée;Non
+180;Marraichères;En succession;Courgette;1,5;Oui;Localisée;Non
+181;Marraichères;En succession;Laitue;1,5;Oui;Localisée;Non
+182;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+183;Marraichères;Principale;Aubergine;1,5;Oui;Localisée;Non
+184;Marraichères;Principale;Pomme de terre;0,8;Oui;Localisée;Non
+185;Marraichères;Principale;Haricot vert;0,18;Oui;Localisée;Non
+186;Marraichères;En association;Haricot vert;0,2;Oui;Localisée;Non
+187;Marraichères;Principale;Courgette;0,3;Oui;Localisée;Non
+188;Marraichères;Principale;Courgette;0,48;Oui;Localisée;Non
+189;Marraichères;Principale;Haricot vert;0,5;Oui;Localisée;Non
+190;Marraichères;En association;Coriandre et persil;0,05;Oui;Localisée;Non
+191;Marraichères;En association;Haricot vert;0,2;Oui;Localisée;Non
+192;Marraichères;Principale;Pomme de terre;0,3;Oui;Localisée;Non
+193;Marraichères;Principale;Haricot vert;0,5;Oui;Localisée;Non
+194;Marraichères;Principale;Haricot vert;0,98;Oui;Localisée;Non
+195;Marraichères;Principale;Haricot vert;1,4;Oui;Aspersion;Non
+196;Marraichères;Principale;Coriandre et persil;0,38;Oui;Localisée;Non
+197;Marraichères;Principale;Coriandre et persil;0,54;Oui;Localisée;Non
+198;Marraichères;Principale;Haricot vert;0,5;Oui;Gravitaire;Non
+199;Marraichères;Principale;Courgette;0,76;Oui;Localisée;Non
+200;Marraichères;En association;Haricot vert;1;Oui;Localisée;Non
+201;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+202;Marraichères;En association;Coriandre et persil;0,75;Oui;Localisée;Non
+203;Marraichères;Principale;Haricot vert;0,82;Oui;Localisée;Non
+204;Marraichères;Principale;Concombre;0,5;Oui;Localisée;Petit tunel
+205;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Petit tunel
+206;Marraichères;Principale;Courgette;1,2;Oui;Localisée;Non
+207;Marraichères;Principale;Pomme de terre;1,35;Non;Localisée;Non
+208;Marraichères;Principale;Haricot vert;0,95;Oui;Localisée;Non
+209;Marraichères;Principale;Concombre;0,4;Oui;Localisée;Petit tunel
+210;Marraichères;Principale;Haricot vert;0,64;Oui;Localisée;Non
+211;Marraichères;Principale;Courgette;0,71;Oui;Localisée;Non
+212;Marraichères;Principale;Courgette;1;Oui;Localisée;Non
+213;Marraichères;Principale;Pomme de terre;0,3;Oui;Localisée;Non
+214;Marraichères;En succession;Celeri;0,2;Oui;Localisée;Non
+215;Marraichères;En succession;Laitue;0,2;Oui;Localisée;Non
+216;Marraichères;En succession;Haricot vert;1,6;Oui;Localisée;Non
+217;Marraichères;Principale;Coriandre et persil;1,6;Oui;Localisée;Non
+218;Marraichères;En succession;Courgette;0,75;Oui;Localisée;Non
+219;Marraichères;En succession;Haricot vert;0,36;Oui;Localisée;Non
+220;Marraichères;En succession;Concombre;0,36;Oui;Localisée;Non
+221;Marraichères;Principale;Pomme de terre;0,75;Oui;Localisée;Non
+222;Marraichères;Principale;Tomate;0,36;Oui;Localisée;Non
+223;Marraichères;En association;Courgette;0,02;Non;NA;Non
+224;Marraichères;En succession;Haricot vert;0,5;Oui;Localisée;Non
+225;Marraichères;Principale;Tomate;0,3;Oui;Localisée;Non
+226;Marraichères;Principale;Tomate;0,38;Oui;Localisée;Non
+227;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+228;Marraichères;Principale;Pastèque;1,5;Oui;Localisée;Non
+229;Marraichères;Principale;Courgette;0,6;Oui;Localisée;Non
+230;Marraichères;Principale;Tomate;0,25;Oui;Gravitaire;Canarienne
+231;Marraichères;Principale;Menthe;0,75;Non;NA;Non
+232;Marraichères;En succession;Concombre;0,5;Oui;Localisée;Non
+233;Marraichères;En succession;Courgette;0,5;Oui;Localisée;Non
+234;Marraichères;Principale;Coriandre et persil;0,51;Oui;Localisée;Non
+235;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+236;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+237;Marraichères;En succession;Courgette;0,5;Oui;Localisée;Non
+238;Marraichères;En succession;Tomate;0,4;Oui;Localisée;Non
+239;Marraichères;En succession;Fève vert;0,65;Oui;Localisée;Non
+240;Marraichères;Principale;Fève vert;0,5;Oui;Localisée;Non
+241;Marraichères;Principale;Pomme de terre;0,4;Oui;Localisée;Non
+242;Marraichères;Principale;Courgette;0,65;Oui;Localisée;Non
+243;Marraichères;Principale;Haricot vert;1,11;Oui;Localisée;Non
+244;Marraichères;Principale;Coriandre et persil;1,14;Oui;Localisée;Non
+245;Marraichères;Principale;Coriandre et persil;0,2;Oui;Localisée;Non
+246;Marraichères;Principale;Aubergine;0,75;Oui;Localisée;Non
+247;Marraichères;Principale;Fève vert;0,4;Non;NA;Non
+248;Marraichères;Principale;Haricot vert;0,35;Oui;Localisée;Non
+249;Marraichères;Principale;Courgette;0,3;Oui;Localisée;Non
+250;Marraichères;Principale;Courgette;0,35;Non;Localisée;Non
+251;Marraichères;Principale;Courgette;0,79;Non;NA;Non
+252;Marraichères;En succession;Coriandre et persil;0,41;Oui;Localisée;Non
+253;Marraichères;En succession;Courgette;0,3;Oui;Localisée;Non
+254;Marraichères;Principale;Haricot vert;0,41;Oui;Localisée;Non
+255;Marraichères;Principale;Pomme de terre;0,3;Oui;Localisée;Non
+256;Marraichères;En association;Haricot vert;0,73;Oui;Localisée;Non
+257;Marraichères;Principale;Pomme de terre;0,73;Oui;Localisée;Non
+258;Marraichères;En succession;Coriandre et persil;0,24;Oui;Localisée;Non
+259;Marraichères;En succession;Pomme de terre;0,24;Oui;Localisée;Non
+260;Marraichères;Principale;Haricot vert;0,24;Oui;Localisée;Non
+261;Marraichères;En succession;Haricot vert;0,2;Oui;Localisée;Non
+262;Marraichères;Principale;Pomme de terre;0,47;Oui;Localisée;Non
+263;Marraichères;Principale;Haricot vert;0,7;Oui;Localisée;Non
+264;Marraichères;Principale;Courgette;0,49;Oui;Localisée;Non
+265;Marraichères;Principale;Coriandre et persil;0,195;Oui;Localisée;Non
+266;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+267;Marraichères;Principale;Coriandre et persil;0,25;Oui;Localisée;Non
+268;Marraichères;Principale;Courgette;0,2;Oui;Localisée;Non
+269;Marraichères;Principale;Coriandre et persil;0,66;Oui;Localisée;Non
+270;Marraichères;Principale;Coriandre et persil;0,08;Oui;Localisée;Non
+271;Marraichères;En succession;Coriandre et persil;0,5;Oui;Localisée;Non
+272;Marraichères;En succession;Haricot Helda;0,5;Oui;Localisée;Non
+273;Marraichères;Principale;Pomme de terre;0,4;Oui;Localisée;Non
+274;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+275;Marraichères;Principale;Concombre;0,3;Oui;Localisée;Non
+276;Marraichères;Principale;Coriandre et persil;0,22;Oui;Localisée;Non
+277;Marraichères;Principale;Courgette;0,2;Oui;Localisée;Non
+278;Marraichères;En succession;Courgette;0,11;Oui;Gravitaire;Non
+279;Marraichères;Principale;Carotte;0,2;Oui;Gravitaire;Non
+280;Marraichères;Principale;Pomme de terre;0,1;Oui;Gravitaire;Non
+281;Marraichères;Principale;Menthe;0,31;Oui;Localisée;Non
+282;Marraichères;Principale;Celeri;0,1;Oui;Localisée;Non
+283;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée;Non
+284;Marraichères;En succession;Pomme de terre;0,4;Oui;Localisée;Non
+285;Marraichères;Principale;Courgette;0,4;Oui;Localisée;Non
+286;Marraichères;Principale;Coriandre et persil;0,35;Oui;Localisée;Non
+287;Marraichères;Principale;Concombre;0,2;Oui;Localisée;Petit tunel
+288;Marraichères;Principale;Haricot vert;1,2;Oui;Localisée;Non
+289;Marraichères;Principale;Courgette;0,6;Oui;Localisée;Non
+290;Marraichères;En association;Coriandre et persil;0,2;Oui;Localisée;Non
+291;Marraichères;Principale;Haricot vert;0,3;Oui;Gravitaire;Non
+292;Marraichères;En association;Menthe;0,2;Oui;Gravitaire;Non
+293;Marraichères;En association;Oignon;0,05;Non;Localisée;Non
+294;Marraichères;Principale;Oignon;0,16;Non;Gravitaire;Non
+295;Marraichères;Principale;Aubergine;0,7;Oui;Localisée;Non
+296;Marraichères;Principale;Artichaut;0,7;Oui;Localisée;Non
+297;Marraichères;Principale;Courgette;0,69;Oui;Localisée;Non
+298;Marraichères;Principale;Haricot vert;0,5;Oui;Localisée;Non
+299;Marraichères;Principale;Navet;0,5;Oui;Localisée;Non
+300;Marraichères;Principale;Choux vert;0,25;Oui;Localisée;Non
+301;Marraichères;Principale;Chou fleur;0,2;Oui;Localisée;Non
+302;Marraichères;Principale;Coriandre et persil;0,73;Oui;Localisée;Non
+303;Marraichères;Principale;Coriandre et persil;0,1;Oui;Gravitaire;Non
+304;Marraichères;Principale;Coriandre et persil;0,2;Oui;Localisée;Non
+305;Marraichères;En succession;Haricot vert;1,45;Oui;Localisée;Non
+306;Marraichères;En succession;Aubergine;1,45;Oui;Localisée;Non
+307;Marraichères;En succession;Courgette;1,45;Oui;Localisée;Non
+308;Marraichères;En succession;Courgette;0,75;Oui;Localisée;Non
+309;Marraichères;Principale;Haricot Helda;0,25;Oui;Localisée;Non
+310;Marraichères;Principale;Aubergine;0,75;Oui;Localisée;Non
+311;Marraichères;Principale;Laitue;1,5;Oui;Localisée;Non
+312;Marraichères;Principale;Haricot vert;1,45;Oui;Localisée;Non
+313;Marraichères;Principale;Coriandre et persil;0,45;Oui;Localisée;Canarienne
+314;Marraichères;Principale;Pomme de terre;0,6;Oui;Localisée;Non
+315;Marraichères;Principale;Concombre;0,2;Oui;Localisée;Canarienne
+316;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée;Canarienne
+317;Marraichères;Principale;Pomme de terre;0,35;Oui;Localisée;Non
+318;Marraichères;Principale;Tomate;1,15;Oui;Localisée;Non
+319;Marraichères;Principale;Concombre;1;Oui;Localisée;Non
+320;Marraichères;Principale;Concombre;0,99;Oui;Localisée;Non
+321;Marraichères;Principale;Menthe;0,3;Oui;Localisée;Non
+322;Marraichères;Principale;Concombre;0,4;Oui;Localisée;Petit tunel
+323;Marraichères;Principale;Tomate kiwat;0,2;Oui;Localisée;Petit tunel
+324;Marraichères;Principale;Menthe;0,4;Oui;Localisée;Non
+325;Marraichères;Principale;Coriandre et persil;0,04;Oui;Localisée;Non
+326;Marraichères;Sous étage;Coriandre et persil;0,4;Oui;Localisée;Non
+327;Marraichères;Sous étage;Menthe;0,3;Oui;Localisée;Non
+328;Marraichères;Sous étage;Menthe;0,5;Oui;Localisée;Non
+329;Marraichères;Sous étage;Coriandre et persil;0,3;Oui;Localisée;Non
+330;Marraichères;En succession;Coriandre et persil;1,69;Oui;Localisée;Non
+331;Marraichères;Principale;Tomate;1,69;Oui;Localisée;Non
+332;Marraichères;Principale;Coriandre et persil;1,49;Oui;Localisée;Non
+333;Marraichères;Principale;Pomme de terre;1,35;Oui;Localisée;Non
+334;Marraichères;Principale;Coriandre et persil;1,3;Oui;Localisée;Non
+335;Marraichères;Principale;Concombre;0,3;Oui;Localisée;Non
+336;Marraichères;Principale;Concombre;0,2;Oui;Localisée;Petit tunel
+337;Marraichères;Principale;Concombre;0,44;Oui;Localisée;Non
+338;Marraichères;Principale;Concombre;0,48;Oui;Localisée;Non
+339;Marraichères;Principale;Pomme de terre;1,2;Oui;Localisée;Non
+340;Marraichères;Principale;Haricot vert;0,16;Oui;Localisée;Non
+341;Marraichères;En succession;Coriandre et persil;3;Oui;Localisée;Non
+342;Marraichères;En succession;Menthe;1,85;Oui;Localisée;Non
+343;Marraichères;Principale;Pomme de terre;3;Oui;Localisée;Non
+344;Marraichères;Principale;Tomate;1,85;Oui;Localisée;Non
+345;Marraichères;Principale;Coriandre et persil;0,392;Oui;Localisée;Non
+346;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+347;Marraichères;Principale;Haricot vert;0,5;Oui;Localisée;Non
+348;Marraichères;Principale;Absinthe;0,4;Oui;Gravitaire;Non
+349;Marraichères;Principale;Tomate;0,7;Oui;Localisée;Non
+350;Marraichères;Principale;Pomme de terre;0,71;Oui;Localisée;Non
+351;Marraichères;En association;Coriandre et persil;0,1;Oui;Localisée;Non
+352;Marraichères;En association;Menthe;0,1;Oui;Localisée;Non
+353;Marraichères;Principale;Courgette;0,48;Non;Localisée;Non
+354;Marraichères;Principale;Coriandre et persil;0,05;Oui;Gravitaire;Non
+355;Marraichères;Principale;Menthe;0,1;Non;Gravitaire;Non
+356;Marraichères;En succession;Haricot vert;0,5;Oui;Localisée;Non
+357;Marraichères;En succession;Courgette;0,5;Oui;Localisée;Non
+358;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+359;Marraichères;Principale;Coriandre et persil;0,2;Oui;Localisée;Non
+360;Marraichères;En succession;Haricot vert;0,5;Oui;Localisée;Non
+361;Marraichères;En succession;Tomate;0,34;Oui;Localisée;Non
+362;Marraichères;En succession;Concombre;0,34;Oui;Localisée;Canarienne
+363;Marraichères;Principale;Pomme de terre;1,07;Oui;Localisée;Non
+364;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+365;Marraichères;Principale;Concombre;0,34;Oui;Localisée;Non
+366;Marraichères;Principale;Haricot vert;0,32;Oui;Localisée;Non
+367;Marraichères;Principale;Tomate;0,34;Oui;Localisée;Canarienne
+368;Marraichères;Principale;Menthe;0,5;Oui;Localisée;Non
+369;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+370;Marraichères;Principale;Coriandre et persil;0,29;Oui;Localisée;Non
+371;Marraichères;Principale;Menthe;0,15;Oui;Gravitaire;Non
+372;Marraichères;En association;Coriandre et persil;0,89;Oui;Localisée;Non
+373;Marraichères;Principale;Menthe;0,89;Oui;Localisée;Non
+374;Marraichères;En association;Coriandre et persil;0,43;Oui;Localisée;Non
+375;Marraichères;Principale;Menthe;0,43;Oui;Localisée;Non
+376;Marraichères;Principale;Tomate;0,3;Oui;Localisée;Non
+377;Marraichères;En association;Coriandre et persil;0,2;Oui;Localisée;Non
+378;Marraichères;En association;Menthe;0,2;Oui;Localisée;Non
+379;Marraichères;En association;Courgette;0,14;Oui;Localisée;Non
+380;Marraichères;En association;Poivron;0,1;Oui;Localisée;Non
+381;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+382;Marraichères;En association;Tomate;1;Oui;Localisée;Non
+383;Marraichères;En association;Coriandre et persil;0,63;Oui;Localisée;Non
+384;Marraichères;Principale;Menthe;0,63;Oui;Localisée;Non
+385;Marraichères;Principale;Menthe;0,5;Oui;Pivot;Non
+386;Marraichères;Principale;Coriandre et persil;0,45;Oui;Pivot;Non
+387;Marraichères;Principale;Courgette;0,65;Oui;Pivot;Non
+388;Marraichères;Principale;Concombre;0,3;Oui;Pivot;Grand tunel
+389;Marraichères;Principale;Pomme de terre;0,08;Non;NA;Non
+390;Marraichères;Principale;Choux vert;0,02;Non;NA;Non
+391;Marraichères;Principale;Endive;0,2;Non;NA;Non
+392;Marraichères;Principale;Choux vert;0,01;Non;NA;Non
+393;Marraichères;En association;Pomme de terre;0,5;Oui;Localisée;Non
+394;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+395;Marraichères;Principale;Pomme de terre;0,86;Oui;Pivot;Grand tunel
+396;Marraichères;Principale;Concombre;0,2;Oui;Pivot;Grand tunel
+397;Marraichères;En succession;Chou fleur;3,84;Oui;Pivot;Non
+398;Marraichères;En succession;Myrtille;10,45;Oui;Localisée;Grand tunel
+399;Marraichères;Principale;Pomme de terre;10,45;Oui;Localisée;Grand tunel
+400;Marraichères;Principale;Fève vert;1,08;Non;NA;Non
+401;Marraichères;Principale;Concombre;0,18;Oui;Localisée;Petit tunel
+402;Marraichères;Principale;Haricot vert;0,74;Oui;Localisée;Non
+403;Marraichères;Principale;Concombre;0,5;Oui;Localisée;Grand tunel
+404;Marraichères;Principale;Haricot vert;0,6;Oui;Localisée;Canarienne
+405;Marraichères;En association;Fève vert;0,8;Oui;Localisée;Non
+406;Marraichères;En association;Oignon;0,5;Oui;Localisée;Non
+407;Marraichères;Principale;Pomme de terre;0,73;Oui;Localisée;Non
+408;Marraichères;Principale;Pomme de terre;1;Oui;Localisée;Non
+409;Marraichères;Principale;Coriandre et persil;0,5;Oui;Localisée;Non
+410;Marraichères;Principale;Courgette;0,235;Oui;Localisée;Non
+411;Marraichères;Principale;Concombre;0,5;Non;Localisée;Petit tunel
+412;Marraichères;Principale;Pomme de terre;1,5;Oui;Localisée;Non
+413;Marraichères;Principale;Pomme de terre;1,25;Oui;Localisée;Non
+414;Marraichères;Principale;Courgette;0,3;Oui;Gravitaire,Localisée;Canarienne
+415;Marraichères;Principale;Tomate;0,25;Oui;Gravitaire,Localisée;Canarienne
+416;Marraichères;Principale;Concombre;0,2;Oui;Gravitaire,Localisée;Canarienne
+417;Marraichères;Principale;Haricot vert;0,25;Oui;Localisée;Non
+418;Marraichères;Principale;Courgette;1,32;Non;NA;Non
+419;Marraichères;Principale;Courgette;0,81;Oui;Localisée;Non
+420;Marraichères;Principale;Concombre;0,16;Oui;Localisée;Petit tunel
+421;Marraichères;Principale;Coriandre et persil;0,63;Oui;Localisée;Non
+422;Marraichères;En succession;Concombre;3,11;Oui;Localisée;Non
+423;Marraichères;En succession;Courgette;2,6;Oui;Localisée;Non
+424;Marraichères;Principale;Pomme de terre;3,11;Oui;Localisée;Non
+425;Marraichères;Principale;Tomate;1,64;Oui;Localisée;Non
+426;Marraichères;Principale;Pomme de terre;1,51;Oui;Localisée;Non
+427;Marraichères;Principale;Tomate;2,6;Oui;Localisée;Non
+428;Marraichères;Principale;Courgette;0,33;Oui;Localisée;Non
+429;Marraichères;En succession;Coriandre et persil;2,32;Oui;Localisée;Non
+430;Marraichères;Principale;Tomate;2,32;Oui;Localisée;Non
+431;Marraichères;En succession;Carotte;5,5;Non;Gravitaire;Non
+432;Marraichères;En succession;Courgette;4;Non;Gravitaire;Non
+433;Marraichères;En succession;Courgette;4,11;Non;Gravitaire;Non
+434;Marraichères;Principale;Aubergine;0,8;Oui;Localisée;Non
+435;Marraichères;Principale;Artichaut;0,7;Oui;Localisée;Non
+436;Marraichères;Principale;Coriandre et persil;0,6;Oui;Localisée;Non
+437;Marraichères;Principale;Pomme de terre;5,5;Non;Gravitaire;Non
+438;Marraichères;Principale;Pomme de terre;4;Non;Gravitaire;Non
+439;Marraichères;Principale;Pomme de terre;4,11;Non;Gravitaire;Non
+440;Marraichères;Principale;Carotte;1,01;Non;Localisée;Petit tunel
+441;Marraichères;Principale;Coriandre et persil;0,35;Oui;Localisée;Non
+442;Marraichères;Principale;Courgette;0,45;Oui;Localisée;Non
+443;Marraichères;En succession;Fève vert;0,4;Non;NA;Non
+444;Marraichères;Principale;Concombre;0,2;Oui;Aspersion;Grand tunel
+445;Marraichères;Principale;Tomate;0,19;Oui;Aspersion;Grand tunel
+446;Marraichères;Principale;Courgette;0,2;Oui;Localisée;Non
+447;Marraichères;Principale;Coriandre et persil;0,52;Oui;Localisée;Non
+448;Marraichères;En succession;Coriandre et persil;0,2;Oui;Localisée;Non
+449;Marraichères;Principale;Celeri;1,02;Oui;Localisée;Non
+450;Marraichères;Principale;Tomate;1,02;Oui;Localisée;Non
+451;Marraichères;Principale;Concombre;0,1;Oui;Localisée;Non
+452;Marraichères;En association;Coriandre et persil;1,05;Non;NA;Non
+453;Marraichères;Principale;Coriandre et persil;0,6;Oui;Localisée;Non
+454;Marraichères;Principale;Coriandre et persil;0,903;Oui;Localisée;Non
+455;Marraichères;En association;Menthe;0,08;Oui;Localisée;Non
+456;Marraichères;En succession;Haricot vert;1;Oui;Localisée;Non
+457;Marraichères;Principale;Courgette;1;Oui;Localisée;Non
+458;Marraichères;Principale;Coriandre et persil;0,9;Oui;Localisée;Non
+459;Marraichères;Principale;Tomate;0,59;Oui;Localisée;Grand tunel
+460;Marraichères;Principale;Concombre;0,5;Oui;Localisée;Grand tunel
+461;Marraichères;Principale;Celeri;1,1;Non;NA;Non
+462;Marraichères;Principale;Tomate;0,58;Oui;Localisée;Petit tunel
+463;Marraichères;Principale;Pomme de terre;0,29;Oui;Localisée;Petit tunel
+464;Marraichères;Principale;Fraise;0,29;Oui;Localisée;Grand tunel
+465;Marraichères;En succession;Fraise;20;Oui;Gravitaire,Localisée;Petit tunel
+466;Marraichères;Principale;Fraise;20;Oui;Gravitaire,Localisée;Petit tunel
+467;Marraichères;Principale;Courgette;0,3;Oui;Localisée;Non
+468;Marraichères;En succession;Courgette;2;Non;NA;Non
+469;Marraichères;En succession;Artichaut;4,3;Non;NA;Non
+470;Marraichères;En succession;Topinambour;2,86;Non;NA;Non
+471;Marraichères;En succession;Aubergine;5,3;Non;NA;Non
+472;Marraichères;En succession;Chou fleur;2,2;Non;NA;Non
+473;Marraichères;Principale;Tomate;2;Non;NA;Non
+474;Marraichères;Principale;Pomme de terre;4,3;Non;NA;Non
+475;Marraichères;Principale;Coriandre et persil;0,26;Non;NA;Non
+476;Marraichères;Principale;Pomme de terre;2,86;Non;NA;Non
+477;Marraichères;Principale;Pomme de terre;5,3;Non;NA;Non
+478;Marraichères;Principale;Tomate;2,2;Non;NA;Non
+479;Marraichères;Principale;Oignon;0,3;Oui;Localisée;Multi-chapelle
+480;Marraichères;Principale;Oignon;0,35;Oui;Localisée;Grand tunel
+481;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée;Grand tunel
+482;Marraichères;Principale;Coriandre et persil;0,43;Oui;Localisée;Non
+483;Marraichères;En succession;Tomate;0,42;Oui;Localisée,Pivot;Non
+484;Marraichères;En succession;Pomme de terre;1,1;Oui;Gravitaire;Non
+485;Marraichères;En succession;Tomate;1,88;Non;Localisée,Pivot;Non
+486;Marraichères;Principale;Menthe;0,35;Oui;Localisée;Non
+487;Marraichères;En succession;Pomme de terre;1,5;Oui;Localisée;Non
+488;Marraichères;Principale;Concombre;0,2;Oui;Localisée;Multi-chapelle
+489;Marraichères;Principale;Haricot vert;1,5;Oui;Localisée;Non
+490;Marraichères;Principale;Concombre;0,3;Non;Localisée;Multi-chapelle
+491;Marraichères;Principale;Fève vert;0,2;Non;NA;Non
+492;Marraichères;Principale;Concombre;1;Non;Localisée;Non
+493;Marraichères;En succession;Carotte;2,15;Non;NA;Non
+494;Marraichères;Principale;Tomate;2,15;Non;NA;Non
+495;Marraichères;En succession;Topinambour;6,03;Non;NA;Non
+496;Marraichères;En succession;Courgette;6,01;Non;NA;Non
+497;Marraichères;Principale;Pomme de terre;6,03;Non;NA;Non
+498;Marraichères;Principale;Pomme de terre;6,01;Non;NA;Non
+499;Marraichères;Principale;Concombre;0,8;Oui;Localisée;Multi-chapelle
+500;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée;Non
+501;Marraichères;Principale;Courgette;0,67;Oui;Localisée;Non
+502;Marraichères;Principale;Tomate;0,46;Oui;Aspersion;Non
+503;Marraichères;Principale;Courgette;0,64;Oui;Localisée;Non
+504;Marraichères;Principale;Menthe;0,2;Non;NA;Non
+505;Marraichères;Principale;Menthe;0,18;Non;NA;Non
+506;Marraichères;Principale;Pomme de terre;0,27;Oui;Localisée;Grand tunel
+507;Marraichères;Principale;Tomate;0,1;Oui;Localisée;Grand tunel
+508;Marraichères;Principale;Concombre;0,28;Oui;Localisée;Non
+509;Marraichères;Principale;Courgette;0,12;Oui;Localisée;Non
+510;Marraichères;En succession;Haricot vert;3,1;Oui;Localisée;Non
+511;Marraichères;En succession;Courgette;2;Oui;Localisée;Non
+512;Marraichères;Principale;Pomme de terre;4;Oui;Localisée;Non
+513;Marraichères;Principale;Pomme de terre;3,1;Oui;Localisée;Non
+514;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+515;Marraichères;Principale;Haricot vert;0,88;Oui;Localisée;Non
+516;Marraichères;Principale;Courgette;0,5;Oui;Localisée;Non
+517;Marraichères;Principale;Pomme de terre;0,2;Oui;Gravitaire;Non
+518;Marraichères;Principale;Pomme de terre;0,54;Oui;Gravitaire,Localisée;Non
+519;Marraichères;Principale;Courgette;0,5;Oui;Gravitaire,Localisée;Non
+520;Marraichères;Principale;Pomme de terre;0,28;Oui;Localisée;Non
+521;Marraichères;Principale;Pomme de terre;0,27;Oui;Localisée;Non
+522;Marraichères;Principale;Pomme de terre;0,6;Non;NA;Non
+523;Marraichères;En succession;Courgette;2;Oui;Localisée;Non
+524;Marraichères;Principale;Pomme de terre;2,65;Oui;Localisée;Non
+525;Marraichères;Principale;Tomate;2;Oui;Localisée;Non
+526;Marraichères;Principale;Tomate;1;Oui;Localisée;Non
+527;Marraichères;En succession;Carotte;9,01;Non;NA;Non
+528;Marraichères;En succession;Courgette;8;Non;NA;Non
+529;Marraichères;En succession;Aubergine;7;Non;NA;Non
+530;Marraichères;Principale;Pomme de terre;9,01;Non;NA;Non
+531;Marraichères;Principale;Pomme de terre;8;Non;NA;Non
+532;Marraichères;Principale;Pomme de terre;7;Non;NA;Non
+533;Marraichères;Principale;Concombre;0,88;Oui;Localisée;Grand tunel
+534;Marraichères;Principale;Tomate;0,2;Oui;Localisée,Pivot;Non
+535;Marraichères;Principale;Coriandre et persil;0,1;Oui;Localisée,Pivot;Non
+536;Marraichères;Principale;Menthe;0,68;Oui;Localisée;Non
+537;Marraichères;Principale;Pomme de terre;0,15;Oui;Localisée;Non
+538;Marraichères;Principale;Pomme de terre;0,1;Oui;Localisée;Non
+539;Marraichères;En association;Absinthe;1,75;Oui;Gravitaire;Non
+540;Marraichères;Principale;Menthe;0,08;Oui;Gravitaire;Non
+541;Marraichères;En succession;Fève vert;4,36;Non;NA;Non
+542;Marraichères;Principale;Pomme de terre;4,36;Non;NA;Non
+543;Marraichères;Principale;Concombre;0,3;Oui;Localisée;Non
+544;Marraichères;En succession;Courgette;3,08;Oui;Localisée;Non
+545;Marraichères;En succession;Chou fleur;3;Oui;Localisée;Non
+546;Marraichères;Principale;Pomme de terre;3,08;Oui;Localisée;Non
+547;Marraichères;Principale;Pomme de terre;3;Oui;Localisée;Non
+548;Marraichères;En succession;Courgette;2,34;Non;Localisée;Non
+549;Marraichères;En succession;Carotte;4,18;Non;NA;Non
+550;Marraichères;Principale;Tomate;2,34;Non;Localisée;Non
+551;Marraichères;Principale;Pomme de terre;4,18;Non;NA;Non
+552;Marraichères;Principale;Courgette;1,64;Non;NA;Non
+553;Marraichères;En succession;Courgette;2,05;Oui;Localisée;Non
+554;Marraichères;Principale;Pomme de terre;2,05;Oui;Localisée;Non
+555;Marraichères;Principale;Concombre;1,09;Oui;Localisée;Grand tunel
+556;Marraichères;Principale;Concombre;1;Oui;Localisée;Grand tunel
+557;Marraichères;En succession;Concombre;1,93;Oui;Localisée;Grand tunel
+558;Marraichères;Principale;Tomate;1,93;Oui;Localisée;Grand tunel
+559;Marraichères;Principale;Concombre;1,1;Oui;Localisée;Grand tunel
+560;Marraichères;Principale;Fève vert;0,56;Non;NA;Non
+561;Marraichères;Principale;Fève vert;0,69;Non;NA;Non
+562;Marraichères;Principale;Concombre;0,29;Non;NA;Grand tunel
+563;Marraichères;En succession;Menthe;3,08;Non;NA;Non
+564;Marraichères;Principale;Pomme de terre;3,08;Non;NA;Non
+565;Marraichères;Principale;Pomme de terre;0,25;Oui;Localisée;Non
+566;Marraichères;En association;Tomate;0,1;Oui;Localisée;Non
+567;Marraichères;En association;Carotte;0,09;Oui;Localisée;Non
+568;Marraichères;En succession;Carotte;3,34;Non;NA;Non
+569;Marraichères;En succession;Courgette;2;Non;NA;Non
+570;Marraichères;Principale;Pomme de terre;3,34;Non;NA;Non
+571;Marraichères;Principale;Tomate;2;Non;NA;Non
+572;Marraichères;Principale;Aubergine;1,18;Non;NA;Non
+573;Marraichères;Principale;Concombre;0,77;Oui;Localisée;Petit tunel
+574;Marraichères;Principale;Concombre;0,75;Oui;Localisée;Petit tunel
+575;Marraichères;En association;Menthe;0,38;Oui;Localisée;Non
+576;Marraichères;Principale;Pomme de terre;1,53;Oui;Localisée;Non
+577;Marraichères;En association;Tomate;1;Oui;Localisée;Non
+578;Marraichères;En association;Concombre;0,5;Oui;Gravitaire;Non
+579;Marraichères;En succession;Concombre;1,65;Oui;Localisée;Petit tunel
+580;Marraichères;Principale;Tomate;1,65;Oui;Localisée;Petit tunel
+581;Marraichères;Principale;Menthe;0,2;Oui;Localisée;Non
+582;Marraichères;En association;Celeri;0,1;Oui;Localisée;Non
+583;Marraichères;En association;Coriandre et persil;0,1;Oui;Localisée;Non
+584;Marraichères;Principale;Tomate kiwat;0,616;Oui;Localisée;Non
+585;Marraichères;En association;Pomme de terre;0,5;Oui;Localisée;Non
+586;Marraichères;Principale;Tomate;0,26;Oui;Localisée;Non
+587;Marraichères;En association;Pomme de terre;0,2;Oui;Localisée;Non
+588;Marraichères;Principale;Tomate;0,5;Oui;Localisée;Non
+589;Marraichères;En association;Pomme de terre;0,38;Oui;Localisée;Non
+590;Marraichères;Principale;Tomate;1,7;Oui;Localisée;Non
+591;Marraichères;En association;Pomme de terre;1;Oui;Localisée;Non
+592;Marraichères;En association;Menthe;0,5;Oui;Localisée;Non
+593;Marraichères;Principale;Courgette;1;Oui;Localisée;Non
+594;Marraichères;Principale;Piment fort;1;Oui;Localisée;Non
+595;Marraichères;Principale;Concombre;0,23;Oui;Localisée;Non
+596;Marraichères;Principale;Pomme de terre;0,41;Oui;Localisée;Non
+597;Marraichères;En association;Tomate;0,3;Oui;Localisée;Non
+598;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+599;Marraichères;En association;Tomate;0,26;Oui;Localisée;Non
+600;Marraichères;Principale;Pomme de terre;0,5;Oui;Localisée;Non
+601;Marraichères;En association;Tomate;0,47;Oui;Localisée;Non
+602;Marraichères;En succession;Courgette;3;Oui;Localisée;Non
+603;Marraichères;Principale;Pomme de terre;3;Oui;Localisée;Non
+604;Marraichères;Principale;Courgette;0,56;Oui;Localisée;Non
+605;Marraichères;Principale;Menthe;0,9;Oui;Localisée;Non
+606;Marraichères;Principale;Tomate kiwat;0,75;Oui;Localisée;Non
