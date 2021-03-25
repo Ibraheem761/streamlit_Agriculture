@@ -49,7 +49,7 @@ et Forêts - **Direction de la stratégie et des statistiques**, j’ai eu l’o
 réelle sous la direction du Chef de Services, des Enquêtes et Recensements **Mr MESTARI Soufiane**
 """)
 
-st.dataframe(df)
+st.dataframe(df.head(10))
 
 
 
