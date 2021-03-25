@@ -531,7 +531,7 @@ Xq2=(np.median(df_ESR2["Superficie_Champ"]))**0.5
 Nh1=n*((C1*Xq1)/(C1*Xq1+C2*Xq2))
 Nh2=n*((C2*Xq2)/(C1*Xq1+C2*Xq2))
 
-import random
+# import random
 seq=list(range(1,606,1))
 
 # V1=sorted(random.sample(seq, int(Nh1)))
