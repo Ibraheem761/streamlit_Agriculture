@@ -4,7 +4,7 @@ import streamlit as st
 import altair as alt
 
 
-df=pd.read_excel('Base_sondage_maraichage.csv')
+df=pd.read_excel('Base_sondage_maraichage.csv', index_col="Identifiant", na_values=['NA'])
 
 df = df.fillna({"Mode_irrigation": "Pluvial"})
 
