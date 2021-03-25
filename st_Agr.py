@@ -54,12 +54,28 @@ st.dataframe(df)
 
 
 
+def SAU(i):
+    grouped_df_by_culture = df[df.Culture.str.contains(i)]
+    Somme = np.sum(grouped_df_by_culture.Superficie_Champ)
+    return Somme
+
+def SAU_V():
+    V=[]
+    for i in df.Culture.value_counts().index:
+        V.append(SAU(i))
+    return V
+
+SAU_par_Culture = pd.DataFrame({"Culture":df.Culture.value_counts().index,"SAU":SAU_V(),
+                                "% SAU": np.round((SAU_V()/np.sum(SAU_V()))*100,2) })
+
+SAU_par_Culture['% SAU'] = SAU_par_Culture['% SAU'].astype(str) + '%'
+
 
 st.header('Population')
 
 
 select_box_1 = st.selectbox('', ["Mode Production","Mode irrigation","Culture","Irrigation","Serre",
-                                       "Superficie Champ"])
+                                       "Superficie Champ","SAU par culture"])
 
 
 
@@ -100,5 +116,28 @@ elif select_box_1 == "Superficie Champ":
     x="Superficie_Champ:Q",
     y='density:Q',).properties(width=650, height=300)
     st.altair_chart(chart)
+
+elif select_box_1 == "SAU par culture":
+    chart = alt.Chart(SAU_par_Culture).mark_bar().encode(
+    alt.X("SAU", bin=False),
+    y='Culture',color='Culture')
+
+    text = chart.mark_text(
+    align='left',
+    baseline='middle',
+    dx=3 ).encode(
+    text="% SAU")
+    st.altair_chart((chart + text).properties(width=700, height=500))
+
+
+st.header('Echantillonnage et Inférence')
+
+
+select_box_2 = st.selectbox('', ["Echantillonnage aléatoire simple","Echantillonnage systématique",
+                                       "Echantillonnage double","Echantillonnage à probabilités inégales",
+                                       "Echantillonnage stratifié"])
+
+select_box_3 = st.selectbox('', ["Mode irrigation","Mode Production","Culture","Irrigation",
+                                 "Serre", "Superficie Champ", "SAU par culture"]) 
 
 
